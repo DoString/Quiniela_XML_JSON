@@ -1,0 +1,1056 @@
+<quinielista error="0">
+<quiniela jornada="1" temporada="2015/2016" recaudacion="473070150" el15="0" el14="0" el13="566077" el12="42645" el11="4786" el10="1014" apuesta="7500">
+<partit num="1" equipo1="DEPORTIVO" equipo2="R.SOCIEDAD" pt1="47" ptX="29" pt2="24" sig="X"/>
+<partit num="2" equipo1="RAYO" equipo2="VALENCIA" pt1="27" ptX="34" pt2="39" sig="X"/>
+<partit num="3" equipo1="ATH.CLUB" equipo2="BARCELONA" pt1="10" ptX="18" pt2="72" sig="2"/>
+<partit num="4" equipo1="SPORTING" equipo2="R.MADRID" pt1="8" ptX="16" pt2="76" sig="X"/>
+<partit num="5" equipo1="BETIS" equipo2="VILLARREAL" pt1="29" ptX="36" pt2="35" sig="X"/>
+<partit num="6" equipo1="ESPANYOL" equipo2="GETAFE" pt1="52" ptX="28" pt2="20" sig="1"/>
+<partit num="7" equipo1="LEVANTE" equipo2="CELTA" pt1="24" ptX="30" pt2="46" sig="2"/>
+<partit num="8" equipo1="ALMERÍA" equipo2="LEGANÉS" pt1="50" ptX="30" pt2="20" sig="1"/>
+<partit num="9" equipo1="MIRANDÉS" equipo2="ZARAGOZA" pt1="25" ptX="35" pt2="40" sig="X"/>
+<partit num="10" equipo1="LLAGOSTERA" equipo2="OSASUNA" pt1="26" ptX="34" pt2="40" sig="2"/>
+<partit num="11" equipo1="OVIEDO" equipo2="LUGO" pt1="40" ptX="35" pt2="25" sig="X"/>
+<partit num="12" equipo1="GIMNÁSTIC" equipo2="ALBACETE" pt1="42" ptX="30" pt2="28" sig="X"/>
+<partit num="13" equipo1="ALCORCÓN" equipo2="MALLORCA" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="VALLADOLID" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="15" equipo1="AT.MADRID" equipo2="LAS PALMAS" pt1="0" ptX="0" pt2="0" sig="10"/>
+</quiniela>
+<quiniela jornada="2" temporada="2015/2016" recaudacion="503725275" el15="0" el14="0" el13="2374886" el12="158737" el11="16702" el10="3267" apuesta="7500">
+<partit num="1" equipo1="CELTA" equipo2="RAYO" pt1="55" ptX="26" pt2="19" sig="1"/>
+<partit num="2" equipo1="BARCELONA" equipo2="MÁLAGA" pt1="80" ptX="16" pt2="4" sig="1"/>
+<partit num="3" equipo1="EIBAR" equipo2="ATH.CLUB" pt1="25" ptX="30" pt2="45" sig="1"/>
+<partit num="4" equipo1="SEVILLA" equipo2="AT.MADRID" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="5" equipo1="VALENCIA" equipo2="DEPORTIVO" pt1="65" ptX="22" pt2="13" sig="X"/>
+<partit num="6" equipo1="LAS PALMAS" equipo2="LEVANTE" pt1="42" ptX="30" pt2="28" sig="X"/>
+<partit num="7" equipo1="GETAFE" equipo2="GRANADA" pt1="40" ptX="31" pt2="29" sig="2"/>
+<partit num="8" equipo1="R.SOCIEDAD" equipo2="SPORTING" pt1="56" ptX="26" pt2="18" sig="X"/>
+<partit num="9" equipo1="LEGANÉS" equipo2="CÓRDOBA" pt1="29" ptX="37" pt2="34" sig="1"/>
+<partit num="10" equipo1="ZARAGOZA" equipo2="ALMERÍA" pt1="44" ptX="30" pt2="26" sig="1"/>
+<partit num="11" equipo1="ALAVÉS" equipo2="OVIEDO" pt1="53" ptX="27" pt2="20" sig="1"/>
+<partit num="12" equipo1="ALBACETE" equipo2="HUESCA" pt1="46" ptX="30" pt2="24" sig="X"/>
+<partit num="13" equipo1="TENERIFE" equipo2="GIMNÁSTIC" pt1="48" ptX="30" pt2="22" sig="2"/>
+<partit num="14" equipo1="GIRONA" equipo2="NUMANCIA" pt1="51" ptX="28" pt2="21" sig="2"/>
+<partit num="15" equipo1="R.MADRID" equipo2="BETIS" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="3" temporada="2015/2016" recaudacion="143553975" el15="0" el14="18424909" el13="712557" el12="26984" el11="2259" el10="434" apuesta="7500">
+<partit num="1" equipo1="BULGARIA" equipo2="NORUEGA" pt1="42" ptX="30" pt2="28" sig="2"/>
+<partit num="2" equipo1="REP.CHECA" equipo2="KAZAJSTÁN" pt1="77" ptX="16" pt2="7" sig="1"/>
+<partit num="3" equipo1="HOLANDA" equipo2="ISLANDIA" pt1="71" ptX="19" pt2="10" sig="2"/>
+<partit num="4" equipo1="TURQUÍA" equipo2="LETONIA" pt1="75" ptX="17" pt2="8" sig="X"/>
+<partit num="5" equipo1="BÉLGICA" equipo2="BOSNIA" pt1="63" ptX="24" pt2="13" sig="1"/>
+<partit num="6" equipo1="CHIPRE" equipo2="GALES" pt1="19" ptX="27" pt2="54" sig="2"/>
+<partit num="7" equipo1="ISRAEL" equipo2="ANDORRA" pt1="81" ptX="16" pt2="3" sig="1"/>
+<partit num="8" equipo1="GEORGIA" equipo2="ESCOCIA" pt1="24" ptX="29" pt2="47" sig="1"/>
+<partit num="9" equipo1="ALEMANIA" equipo2="POLONIA" pt1="72" ptX="19" pt2="9" sig="1"/>
+<partit num="10" equipo1="ISLAS FEROE" equipo2="IRLANDA N." pt1="15" ptX="23" pt2="62" sig="2"/>
+<partit num="11" equipo1="GRECIA" equipo2="FINLANDIA" pt1="50" ptX="29" pt2="21" sig="2"/>
+<partit num="12" equipo1="HUNGRÍA" equipo2="RUMANÍA" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="13" equipo1="DINAMARCA" equipo2="ALBANIA" pt1="59" ptX="25" pt2="16" sig="X"/>
+<partit num="14" equipo1="SERBIA" equipo2="ARMENIA" pt1="69" ptX="20" pt2="11" sig="1"/>
+<partit num="15" equipo1="ITALIA" equipo2="MALTA" pt1="0" ptX="0" pt2="0" sig="10"/>
+</quiniela>
+<quiniela jornada="4" temporada="2015/2016" recaudacion="178914300" el15="0" el14="0" el13="497286" el12="43995" el11="5304" el10="1156" apuesta="7500">
+<partit num="1" equipo1="SUIZA" equipo2="ESLOVENIA" pt1="57" ptX="27" pt2="16" sig="1"/>
+<partit num="2" equipo1="TURQUÍA" equipo2="HOLANDA" pt1="19" ptX="26" pt2="55" sig="1"/>
+<partit num="3" equipo1="ITALIA" equipo2="BULGARIA" pt1="78" ptX="16" pt2="6" sig="1"/>
+<partit num="4" equipo1="LEGANÉS" equipo2="ZARAGOZA" pt1="25" ptX="40" pt2="35" sig="X"/>
+<partit num="5" equipo1="ALMERÍA" equipo2="OSASUNA" pt1="60" ptX="25" pt2="15" sig="1"/>
+<partit num="6" equipo1="MIRANDÉS" equipo2="LUGO" pt1="28" ptX="37" pt2="35" sig="X"/>
+<partit num="7" equipo1="LLAGOSTERA" equipo2="ALAVÉS" pt1="22" ptX="33" pt2="45" sig="1"/>
+<partit num="8" equipo1="OVIEDO" equipo2="ALBACETE" pt1="37" ptX="38" pt2="25" sig="1"/>
+<partit num="9" equipo1="HUESCA" equipo2="TENERIFE" pt1="42" ptX="30" pt2="28" sig="X"/>
+<partit num="10" equipo1="GIMNÁSTIC" equipo2="GIRONA" pt1="45" ptX="30" pt2="25" sig="1"/>
+<partit num="11" equipo1="NUMANCIA" equipo2="ELCHE" pt1="72" ptX="17" pt2="11" sig="X"/>
+<partit num="12" equipo1="BILBAO ATH." equipo2="MALLORCA" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="13" equipo1="PONFERRADINA" equipo2="VALLADOLID" pt1="29" ptX="37" pt2="34" sig="1"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="ALCORCÓN" pt1="66" ptX="23" pt2="11" sig="2"/>
+<partit num="15" equipo1="ESPAÑA" equipo2="ESLOVAQUIA" pt1="0" ptX="0" pt2="0" sig="20"/>
+</quiniela>
+<quiniela jornada="5" temporada="2015/2016" recaudacion="628167450" el15="81180311" el14="8983937" el13="325110" el12="27519" el11="3370" el10="721" apuesta="7500">
+<partit num="1" equipo1="ESPANYOL" equipo2="R.MADRID" pt1="10" ptX="17" pt2="73" sig="2"/>
+<partit num="2" equipo1="SPORTING" equipo2="VALENCIA" pt1="26" ptX="33" pt2="41" sig="2"/>
+<partit num="3" equipo1="BETIS" equipo2="R.SOCIEDAD" pt1="40" ptX="31" pt2="29" sig="1"/>
+<partit num="4" equipo1="GRANADA" equipo2="VILLARREAL" pt1="25" ptX="30" pt2="45" sig="2"/>
+<partit num="5" equipo1="ATH.CLUB" equipo2="GETAFE" pt1="60" ptX="25" pt2="15" sig="1"/>
+<partit num="6" equipo1="CELTA" equipo2="LAS PALMAS" pt1="66" ptX="21" pt2="13" sig="X"/>
+<partit num="7" equipo1="MÁLAGA" equipo2="EIBAR" pt1="54" ptX="27" pt2="19" sig="X"/>
+<partit num="8" equipo1="ZARAGOZA" equipo2="CÓRDOBA" pt1="49" ptX="29" pt2="22" sig="2"/>
+<partit num="9" equipo1="LUGO" equipo2="ALMERÍA" pt1="29" ptX="36" pt2="35" sig="1"/>
+<partit num="10" equipo1="TENERIFE" equipo2="OVIEDO" pt1="28" ptX="38" pt2="34" sig="2"/>
+<partit num="11" equipo1="GIRONA" equipo2="HUESCA" pt1="57" ptX="26" pt2="17" sig="X"/>
+<partit num="12" equipo1="ELCHE" equipo2="GIMNÁSTIC" pt1="38" ptX="33" pt2="29" sig="1"/>
+<partit num="13" equipo1="MALLORCA" equipo2="NUMANCIA" pt1="27" ptX="34" pt2="39" sig="X"/>
+<partit num="14" equipo1="ALCORCÓN" equipo2="PONFERRADINA" pt1="34" ptX="37" pt2="29" sig="1"/>
+<partit num="15" equipo1="AT.MADRID" equipo2="BARCELONA" pt1="0" ptX="0" pt2="0" sig="12"/>
+</quiniela>
+<quiniela jornada="6" temporada="2015/2016" recaudacion="163184625" el15="0" el14="7012544" el13="55379" el12="5104" el11="614" el10="141" apuesta="7500">
+<partit num="1" equipo1="PSG" equipo2="MALMO" pt1="80" ptX="16" pt2="4" sig="1"/>
+<partit num="2" equipo1="R.MADRID" equipo2="SHAKHTAR" pt1="76" ptX="17" pt2="7" sig="1"/>
+<partit num="3" equipo1="WOLFSBURG" equipo2="CSKA M." pt1="54" ptX="25" pt2="21" sig="1"/>
+<partit num="4" equipo1="PSV" equipo2="MAN.UNITED" pt1="25" ptX="30" pt2="45" sig="1"/>
+<partit num="5" equipo1="GALATASARAY" equipo2="AT.MADRID" pt1="17" ptX="27" pt2="56" sig="2"/>
+<partit num="6" equipo1="BENFICA" equipo2="ASTANA" pt1="75" ptX="18" pt2="7" sig="1"/>
+<partit num="7" equipo1="SEVILLA" equipo2="BORUSSIA M." pt1="58" ptX="25" pt2="17" sig="1"/>
+<partit num="8" equipo1="B.LEVERKUSEN" equipo2="BATE BORISOV" pt1="74" ptX="19" pt2="7" sig="1"/>
+<partit num="9" equipo1="ROMA" equipo2="BARCELONA" pt1="15" ptX="23" pt2="62" sig="X"/>
+<partit num="10" equipo1="DÍNAMO Z" equipo2="ARSENAL" pt1="13" ptX="22" pt2="65" sig="1"/>
+<partit num="11" equipo1="OLYMPIAKOS" equipo2="B.MUNICH" pt1="11" ptX="19" pt2="70" sig="2"/>
+<partit num="12" equipo1="DYNAMO K" equipo2="PORTO" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="13" equipo1="VALENCIA" equipo2="ZENIT SP" pt1="56" ptX="25" pt2="19" sig="2"/>
+<partit num="14" equipo1="GENT" equipo2="OL. LYON" pt1="24" ptX="29" pt2="47" sig="X"/>
+<partit num="15" equipo1="MAN.CITY" equipo2="JUVENTUS" pt1="0" ptX="0" pt2="0" sig="12"/>
+</quiniela>
+<quiniela jornada="7" temporada="2015/2016" recaudacion="556099500" el15="0" el14="0" el13="1638856" el12="127546" el11="12933" el10="2440" apuesta="7500">
+<partit num="1" equipo1="R.MADRID" equipo2="GRANADA" pt1="80" ptX="16" pt2="4" sig="1"/>
+<partit num="2" equipo1="VALENCIA" equipo2="BETIS" pt1="63" ptX="22" pt2="15" sig="X"/>
+<partit num="3" equipo1="EIBAR" equipo2="AT.MADRID" pt1="14" ptX="26" pt2="60" sig="2"/>
+<partit num="4" equipo1="R.SOCIEDAD" equipo2="ESPANYOL" pt1="48" ptX="28" pt2="24" sig="2"/>
+<partit num="5" equipo1="SEVILLA" equipo2="CELTA" pt1="57" ptX="25" pt2="18" sig="2"/>
+<partit num="6" equipo1="DEPORTIVO" equipo2="SPORTING" pt1="46" ptX="30" pt2="24" sig="2"/>
+<partit num="7" equipo1="VILLARREAL" equipo2="ATH.CLUB" pt1="50" ptX="30" pt2="20" sig="1"/>
+<partit num="8" equipo1="LAS PALMAS" equipo2="RAYO" pt1="52" ptX="28" pt2="20" sig="2"/>
+<partit num="9" equipo1="LLAGOSTERA" equipo2="TENERIFE" pt1="38" ptX="35" pt2="27" sig="2"/>
+<partit num="10" equipo1="OVIEDO" equipo2="GIRONA" pt1="44" ptX="30" pt2="26" sig="2"/>
+<partit num="11" equipo1="ZARAGOZA" equipo2="OSASUNA" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="12" equipo1="HUESCA" equipo2="ELCHE" pt1="27" ptX="38" pt2="35" sig="2"/>
+<partit num="13" equipo1="NUMANCIA" equipo2="VALLADOLID" pt1="39" ptX="32" pt2="29" sig="X"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="PONFERRADINA" pt1="42" ptX="30" pt2="28" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="LEVANTE" pt1="0" ptX="0" pt2="0" sig="M1"/>
+</quiniela>
+<quiniela jornada="8" temporada="2015/2016" recaudacion="229444650" el15="13816679" el14="29418915" el13="432408" el12="35481" el11="3951" el10="763" apuesta="7500">
+<partit num="1" equipo1="ESPANYOL" equipo2="VALENCIA" pt1="29" ptX="37" pt2="34" sig="1"/>
+<partit num="2" equipo1="GRANADA" equipo2="R.SOCIEDAD" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="3" equipo1="CELTA" equipo2="BARCELONA" pt1="14" ptX="21" pt2="65" sig="1"/>
+<partit num="4" equipo1="RAYO" equipo2="SPORTING" pt1="48" ptX="30" pt2="22" sig="1"/>
+<partit num="5" equipo1="LEVANTE" equipo2="EIBAR" pt1="37" ptX="38" pt2="25" sig="X"/>
+<partit num="6" equipo1="ATH.CLUB" equipo2="R.MADRID" pt1="16" ptX="25" pt2="59" sig="2"/>
+<partit num="7" equipo1="MÁLAGA" equipo2="VILLARREAL" pt1="36" ptX="37" pt2="27" sig="2"/>
+<partit num="8" equipo1="LAS PALMAS" equipo2="SEVILLA" pt1="28" ptX="30" pt2="42" sig="1"/>
+<partit num="9" equipo1="BETIS" equipo2="DEPORTIVO" pt1="46" ptX="30" pt2="24" sig="2"/>
+<partit num="10" equipo1="FIORENTINA" equipo2="BOLOGNA" pt1="65" ptX="21" pt2="14" sig="1"/>
+<partit num="11" equipo1="INTER" equipo2="VERONA" pt1="68" ptX="21" pt2="11" sig="1"/>
+<partit num="12" equipo1="LAZIO" equipo2="GENOA" pt1="60" ptX="25" pt2="15" sig="1"/>
+<partit num="13" equipo1="SAMPDORIA" equipo2="ROMA" pt1="25" ptX="30" pt2="45" sig="1"/>
+<partit num="14" equipo1="UDINESE" equipo2="MILAN" pt1="33" ptX="38" pt2="29" sig="2"/>
+<partit num="15" equipo1="AT.MADRID" equipo2="GETAFE" pt1="0" ptX="0" pt2="0" sig="20"/>
+</quiniela>
+<quiniela jornada="9" temporada="2015/2016" recaudacion="581054025" el15="0" el14="0" el13="4407906" el12="304476" el11="24747" el10="4131" apuesta="7500">
+<partit num="1" equipo1="R.MADRID" equipo2="MÁLAGA" pt1="80" ptX="16" pt2="4" sig="X"/>
+<partit num="2" equipo1="VILLARREAL" equipo2="AT.MADRID" pt1="29" ptX="33" pt2="38" sig="1"/>
+<partit num="3" equipo1="SEVILLA" equipo2="RAYO" pt1="67" ptX="20" pt2="13" sig="1"/>
+<partit num="4" equipo1="EIBAR" equipo2="CELTA" pt1="25" ptX="30" pt2="45" sig="X"/>
+<partit num="5" equipo1="SPORTING" equipo2="BETIS" pt1="43" ptX="30" pt2="27" sig="2"/>
+<partit num="6" equipo1="DEPORTIVO" equipo2="ESPANYOL" pt1="46" ptX="30" pt2="24" sig="1"/>
+<partit num="7" equipo1="GETAFE" equipo2="LEVANTE" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="8" equipo1="R.SOCIEDAD" equipo2="ATH.CLUB" pt1="34" ptX="37" pt2="29" sig="X"/>
+<partit num="9" equipo1="LUGO" equipo2="ZARAGOZA" pt1="42" ptX="30" pt2="28" sig="X"/>
+<partit num="10" equipo1="OSASUNA" equipo2="CÓRDOBA" pt1="45" ptX="30" pt2="25" sig="X"/>
+<partit num="11" equipo1="ELCHE" equipo2="OVIEDO" pt1="50" ptX="28" pt2="22" sig="X"/>
+<partit num="12" equipo1="VALLADOLID" equipo2="GIMNÁSTIC" pt1="52" ptX="30" pt2="18" sig="X"/>
+<partit num="13" equipo1="TENERIFE" equipo2="MIRANDÉS" pt1="47" ptX="30" pt2="23" sig="1"/>
+<partit num="14" equipo1="ALBACETE" equipo2="ALMERÍA" pt1="29" ptX="36" pt2="35" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="LAS PALMAS" pt1="0" ptX="0" pt2="0" sig="21"/>
+</quiniela>
+<quiniela jornada="10" temporada="2015/2016" recaudacion="185453925" el15="11177235" el14="5984526" el13="77704" el12="4780" el11="454" el10="110" apuesta="7500">
+<partit num="1" equipo1="BARCELONA" equipo2="B.LEVERKUSEN" pt1="75" ptX="16" pt2="9" sig="1"/>
+<partit num="2" equipo1="BATE BORISOV" equipo2="ROMA" pt1="19" ptX="26" pt2="55" sig="1"/>
+<partit num="3" equipo1="B.MUNICH" equipo2="DÍNAMO Z" pt1="81" ptX="16" pt2="3" sig="1"/>
+<partit num="4" equipo1="ARSENAL" equipo2="OLYMPIAKOS" pt1="70" ptX="19" pt2="11" sig="2"/>
+<partit num="5" equipo1="OL. LYON" equipo2="VALENCIA" pt1="38" ptX="33" pt2="29" sig="2"/>
+<partit num="6" equipo1="ZENIT SP" equipo2="GENT" pt1="67" ptX="21" pt2="12" sig="1"/>
+<partit num="7" equipo1="ASTANA" equipo2="GALATASARAY" pt1="29" ptX="36" pt2="35" sig="X"/>
+<partit num="8" equipo1="AT.MADRID" equipo2="BENFICA" pt1="60" ptX="25" pt2="15" sig="2"/>
+<partit num="9" equipo1="BORUSSIA M." equipo2="MAN.CITY" pt1="18" ptX="25" pt2="57" sig="2"/>
+<partit num="10" equipo1="JUVENTUS" equipo2="SEVILLA" pt1="56" ptX="26" pt2="18" sig="1"/>
+<partit num="11" equipo1="SHAKHTAR" equipo2="PSG" pt1="21" ptX="26" pt2="53" sig="2"/>
+<partit num="12" equipo1="MALMO" equipo2="R.MADRID" pt1="6" ptX="16" pt2="78" sig="2"/>
+<partit num="13" equipo1="MAN.UNITED" equipo2="WOLFSBURG" pt1="53" ptX="27" pt2="20" sig="1"/>
+<partit num="14" equipo1="CSKA M." equipo2="PSV" pt1="51" ptX="27" pt2="22" sig="1"/>
+<partit num="15" equipo1="PORTO" equipo2="CHELSEA" pt1="0" ptX="0" pt2="0" sig="21"/>
+</quiniela>
+<quiniela jornada="11" temporada="2015/2016" recaudacion="612118800" el15="0" el14="0" el13="3722713" el12="294847" el11="35979" el10="6070" apuesta="7500">
+<partit num="1" equipo1="SEVILLA" equipo2="BARCELONA" pt1="23" ptX="27" pt2="50" sig="1"/>
+<partit num="2" equipo1="LAS PALMAS" equipo2="EIBAR" pt1="46" ptX="30" pt2="24" sig="2"/>
+<partit num="3" equipo1="LEVANTE" equipo2="VILLARREAL" pt1="21" ptX="28" pt2="51" sig="1"/>
+<partit num="4" equipo1="MÁLAGA" equipo2="R.SOCIEDAD" pt1="39" ptX="32" pt2="29" sig="1"/>
+<partit num="5" equipo1="ATH.CLUB" equipo2="VALENCIA" pt1="40" ptX="31" pt2="29" sig="1"/>
+<partit num="6" equipo1="GRANADA" equipo2="DEPORTIVO" pt1="27" ptX="39" pt2="34" sig="X"/>
+<partit num="7" equipo1="ESPANYOL" equipo2="SPORTING" pt1="58" ptX="28" pt2="14" sig="2"/>
+<partit num="8" equipo1="RAYO" equipo2="BETIS" pt1="43" ptX="30" pt2="27" sig="2"/>
+<partit num="9" equipo1="ZARAGOZA" equipo2="ALAVÉS" pt1="44" ptX="30" pt2="26" sig="1"/>
+<partit num="10" equipo1="ALMERÍA" equipo2="TENERIFE" pt1="50" ptX="30" pt2="20" sig="X"/>
+<partit num="11" equipo1="LLAGOSTERA" equipo2="ELCHE" pt1="25" ptX="35" pt2="40" sig="1"/>
+<partit num="12" equipo1="OVIEDO" equipo2="MALLORCA" pt1="52" ptX="28" pt2="20" sig="X"/>
+<partit num="13" equipo1="HUESCA" equipo2="VALLADOLID" pt1="26" ptX="38" pt2="36" sig="X"/>
+<partit num="14" equipo1="NUMANCIA" equipo2="PONFERRADINA" pt1="47" ptX="29" pt2="24" sig="1"/>
+<partit num="15" equipo1="AT.MADRID" equipo2="R.MADRID" pt1="0" ptX="0" pt2="0" sig="11"/>
+</quiniela>
+<quiniela jornada="12" temporada="2015/2016" recaudacion="179093850" el15="0" el14="7691338" el13="59964" el12="3722" el11="508" el10="137" apuesta="7500">
+<partit num="1" equipo1="REP.IRLANDA" equipo2="ALEMANIA" pt1="14" ptX="22" pt2="64" sig="1"/>
+<partit num="2" equipo1="ESCOCIA" equipo2="POLONIA" pt1="29" ptX="37" pt2="34" sig="X"/>
+<partit num="3" equipo1="HUNGRÍA" equipo2="ISLAS FEROE" pt1="74" ptX="18" pt2="8" sig="1"/>
+<partit num="4" equipo1="IRLANDA N." equipo2="GRECIA" pt1="44" ptX="32" pt2="24" sig="1"/>
+<partit num="5" equipo1="RUMANÍA" equipo2="FINLANDIA" pt1="55" ptX="27" pt2="18" sig="X"/>
+<partit num="6" equipo1="ALBANIA" equipo2="SERBIA" pt1="39" ptX="32" pt2="29" sig="2"/>
+<partit num="7" equipo1="PORTUGAL" equipo2="DINAMARCA" pt1="57" ptX="26" pt2="17" sig="1"/>
+<partit num="8" equipo1="MACEDONIA" equipo2="UKRANIA" pt1="15" ptX="25" pt2="60" sig="2"/>
+<partit num="9" equipo1="ESLOVAQUIA" equipo2="BIELORRUSIA" pt1="66" ptX="22" pt2="12" sig="2"/>
+<partit num="10" equipo1="INGLATERRA" equipo2="ESTONIA" pt1="79" ptX="16" pt2="5" sig="1"/>
+<partit num="11" equipo1="ESLOVENIA" equipo2="LITUANIA" pt1="65" ptX="23" pt2="12" sig="X"/>
+<partit num="12" equipo1="SUIZA" equipo2="SAN MARINO" pt1="83" ptX="16" pt2="1" sig="1"/>
+<partit num="13" equipo1="LIECHTENSTEIN" equipo2="SUECIA" pt1="4" ptX="16" pt2="80" sig="2"/>
+<partit num="14" equipo1="MONTENEGRO" equipo2="AUSTRIA" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="15" equipo1="ESPAÑA" equipo2="LUXEMBURGO" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="13" temporada="2015/2016" recaudacion="186540225" el15="0" el14="0" el13="0" el12="582972" el11="37308" el10="6186" apuesta="7500">
+<partit num="1" equipo1="LUGO" equipo2="CÓRDOBA" pt1="28" ptX="37" pt2="35" sig="2"/>
+<partit num="2" equipo1="ALAVÉS" equipo2="OSASUNA" pt1="34" ptX="37" pt2="29" sig="1"/>
+<partit num="3" equipo1="ALBACETE" equipo2="ZARAGOZA" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="4" equipo1="TENERIFE" equipo2="LEGANÉS" pt1="43" ptX="30" pt2="27" sig="X"/>
+<partit num="5" equipo1="GIRONA" equipo2="ALMERÍA" pt1="51" ptX="28" pt2="21" sig="X"/>
+<partit num="6" equipo1="ELCHE" equipo2="MIRANDÉS" pt1="60" ptX="25" pt2="15" sig="2"/>
+<partit num="7" equipo1="MALLORCA" equipo2="LLAGOSTERA" pt1="48" ptX="29" pt2="23" sig="1"/>
+<partit num="8" equipo1="VALLADOLID" equipo2="OVIEDO" pt1="45" ptX="30" pt2="25" sig="2"/>
+<partit num="9" equipo1="ALCORCÓN" equipo2="HUESCA" pt1="57" ptX="28" pt2="15" sig="2"/>
+<partit num="10" equipo1="PONFERRADINA" equipo2="GIMNÁSTIC" pt1="46" ptX="30" pt2="24" sig="X"/>
+<partit num="11" equipo1="BILBAO ATH." equipo2="NUMANCIA" pt1="26" ptX="32" pt2="42" sig="X"/>
+<partit num="12" equipo1="GRECIA" equipo2="HUNGRÍA" pt1="29" ptX="38" pt2="33" sig="1"/>
+<partit num="13" equipo1="SERBIA" equipo2="PORTUGAL" pt1="25" ptX="30" pt2="45" sig="2"/>
+<partit num="14" equipo1="POLONIA" equipo2="REP.IRLANDA" pt1="54" ptX="28" pt2="18" sig="1"/>
+<partit num="15" equipo1="ALEMANIA" equipo2="GEORGIA" pt1="0" ptX="0" pt2="0" sig="21"/>
+</quiniela>
+<quiniela jornada="14" temporada="2015/2016" recaudacion="711675150" el15="0" el14="2896701" el13="84322" el12="8579" el11="1272" el10="337" apuesta="7500">
+<partit num="1" equipo1="EIBAR" equipo2="SEVILLA" pt1="26" ptX="30" pt2="44" sig="X"/>
+<partit num="2" equipo1="GETAFE" equipo2="LAS PALMAS" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="3" equipo1="VILLARREAL" equipo2="CELTA" pt1="52" ptX="29" pt2="19" sig="2"/>
+<partit num="4" equipo1="R.MADRID" equipo2="LEVANTE" pt1="81" ptX="16" pt2="3" sig="1"/>
+<partit num="5" equipo1="R.SOCIEDAD" equipo2="AT.MADRID" pt1="24" ptX="30" pt2="46" sig="2"/>
+<partit num="6" equipo1="VALENCIA" equipo2="MÁLAGA" pt1="62" ptX="24" pt2="14" sig="1"/>
+<partit num="7" equipo1="DEPORTIVO" equipo2="ATH.CLUB" pt1="41" ptX="30" pt2="29" sig="X"/>
+<partit num="8" equipo1="BETIS" equipo2="ESPANYOL" pt1="45" ptX="30" pt2="25" sig="2"/>
+<partit num="9" equipo1="LUGO" equipo2="ALAVÉS" pt1="37" ptX="38" pt2="25" sig="1"/>
+<partit num="10" equipo1="ZARAGOZA" equipo2="TENERIFE" pt1="43" ptX="30" pt2="27" sig="1"/>
+<partit num="11" equipo1="LEGANÉS" equipo2="GIRONA" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="12" equipo1="ALMERÍA" equipo2="ELCHE" pt1="29" ptX="36" pt2="35" sig="2"/>
+<partit num="13" equipo1="MIRANDÉS" equipo2="MALLORCA" pt1="55" ptX="30" pt2="15" sig="X"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="NUMANCIA" pt1="34" ptX="37" pt2="29" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="RAYO" pt1="0" ptX="0" pt2="0" sig="M2"/>
+</quiniela>
+<quiniela jornada="15" temporada="2015/2016" recaudacion="178637250" el15="10768235" el14="1044155" el13="25864" el12="2155" el11="363" el10="118" apuesta="7500">
+<partit num="1" equipo1="BATE BORISOV" equipo2="BARCELONA" pt1="10" ptX="19" pt2="71" sig="2"/>
+<partit num="2" equipo1="B.LEVERKUSEN" equipo2="ROMA" pt1="52" ptX="26" pt2="22" sig="X"/>
+<partit num="3" equipo1="DÍNAMO Z" equipo2="OLYMPIAKOS" pt1="36" ptX="35" pt2="29" sig="2"/>
+<partit num="4" equipo1="PORTO" equipo2="MACCABI TEL-AVIV" pt1="79" ptX="16" pt2="5" sig="1"/>
+<partit num="5" equipo1="DYNAMO K" equipo2="CHELSEA" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="6" equipo1="ZENIT SP" equipo2="OL. LYON" pt1="50" ptX="26" pt2="24" sig="1"/>
+<partit num="7" equipo1="VALENCIA" equipo2="GENT" pt1="65" ptX="22" pt2="13" sig="1"/>
+<partit num="8" equipo1="PSG" equipo2="R.MADRID" pt1="39" ptX="33" pt2="28" sig="X"/>
+<partit num="9" equipo1="CSKA M." equipo2="MAN.UNITED" pt1="29" ptX="37" pt2="34" sig="X"/>
+<partit num="10" equipo1="WOLFSBURG" equipo2="PSV" pt1="59" ptX="25" pt2="16" sig="1"/>
+<partit num="11" equipo1="AT.MADRID" equipo2="ASTANA" pt1="80" ptX="16" pt2="4" sig="1"/>
+<partit num="12" equipo1="GALATASARAY" equipo2="BENFICA" pt1="25" ptX="30" pt2="45" sig="1"/>
+<partit num="13" equipo1="JUVENTUS" equipo2="BORUSSIA M." pt1="66" ptX="22" pt2="12" sig="X"/>
+<partit num="14" equipo1="MAN.CITY" equipo2="SEVILLA" pt1="55" ptX="25" pt2="20" sig="1"/>
+<partit num="15" equipo1="ARSENAL" equipo2="B.MUNICH" pt1="0" ptX="0" pt2="0" sig="20"/>
+</quiniela>
+<quiniela jornada="16" temporada="2015/2016" recaudacion="682181850" el15="76036930" el14="2696038" el13="63795" el12="6190" el11="996" el10="294" apuesta="7500">
+<partit num="1" equipo1="SEVILLA" equipo2="GETAFE" pt1="66" ptX="22" pt2="12" sig="1"/>
+<partit num="2" equipo1="LAS PALMAS" equipo2="VILLARREAL" pt1="23" ptX="35" pt2="42" sig="X"/>
+<partit num="3" equipo1="CELTA" equipo2="R.MADRID" pt1="22" ptX="33" pt2="45" sig="2"/>
+<partit num="4" equipo1="LEVANTE" equipo2="R.SOCIEDAD" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="5" equipo1="AT.MADRID" equipo2="VALENCIA" pt1="58" ptX="26" pt2="16" sig="1"/>
+<partit num="6" equipo1="MÁLAGA" equipo2="DEPORTIVO" pt1="37" ptX="38" pt2="25" sig="1"/>
+<partit num="7" equipo1="GRANADA" equipo2="BETIS" pt1="29" ptX="37" pt2="34" sig="X"/>
+<partit num="8" equipo1="ALAVÉS" equipo2="CÓRDOBA" pt1="28" ptX="37" pt2="35" sig="1"/>
+<partit num="9" equipo1="TENERIFE" equipo2="OSASUNA" pt1="25" ptX="35" pt2="40" sig="X"/>
+<partit num="10" equipo1="GIRONA" equipo2="ZARAGOZA" pt1="45" ptX="30" pt2="25" sig="X"/>
+<partit num="11" equipo1="ELCHE" equipo2="LEGANÉS" pt1="52" ptX="30" pt2="18" sig="X"/>
+<partit num="12" equipo1="MALLORCA" equipo2="ALMERÍA" pt1="54" ptX="29" pt2="17" sig="1"/>
+<partit num="13" equipo1="VALLADOLID" equipo2="MIRANDÉS" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="14" equipo1="PONFERRADINA" equipo2="OVIEDO" pt1="50" ptX="30" pt2="20" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="EIBAR" pt1="0" ptX="0" pt2="0" sig="M1"/>
+</quiniela>
+<quiniela jornada="17" temporada="2015/2016" recaudacion="86045925" el15="0" el14="1426735" el13="14029" el12="1099" el11="207" el10="0" apuesta="7500">
+<partit num="1" equipo1="ATALANTA" equipo2="LAZIO" pt1="29" ptX="36" pt2="35" sig="1"/>
+<partit num="2" equipo1="BOLOGNA" equipo2="INTER" pt1="20" ptX="29" pt2="51" sig="2"/>
+<partit num="3" equipo1="FROSINONE" equipo2="CARPI" pt1="42" ptX="31" pt2="27" sig="1"/>
+<partit num="4" equipo1="VERONA" equipo2="FIORENTINA" pt1="25" ptX="30" pt2="45" sig="2"/>
+<partit num="5" equipo1="NAPOLI" equipo2="PALERMO" pt1="70" ptX="20" pt2="10" sig="1"/>
+<partit num="6" equipo1="ROMA" equipo2="UDINESE" pt1="65" ptX="22" pt2="13" sig="1"/>
+<partit num="7" equipo1="SASSUOLO" equipo2="JUVENTUS" pt1="19" ptX="25" pt2="56" sig="1"/>
+<partit num="8" equipo1="TORINO" equipo2="GENOA" pt1="51" ptX="28" pt2="21" sig="X"/>
+<partit num="9" equipo1="OOSTENDE" equipo2="GENK" pt1="37" ptX="38" pt2="25" sig="1"/>
+<partit num="10" equipo1="ZULTE WAREGEM" equipo2="SINT-TRUIDEN" pt1="55" ptX="28" pt2="17" sig="1"/>
+<partit num="11" equipo1="STANDARD" equipo2="MECHELEN" pt1="54" ptX="25" pt2="21" sig="1"/>
+<partit num="12" equipo1="CLUB BRUGGE" equipo2="LEUVEN" pt1="75" ptX="16" pt2="9" sig="1"/>
+<partit num="13" equipo1="WAASLAND BEVEREN" equipo2="CHARLEROI" pt1="36" ptX="37" pt2="27" sig="2"/>
+<partit num="14" equipo1="LOKEREN" equipo2="GENT" pt1="22" ptX="25" pt2="53" sig="2"/>
+<partit num="15" equipo1="MILAN" equipo2="CHIEVO" pt1="0" ptX="0" pt2="0" sig="10"/>
+</quiniela>
+<quiniela jornada="18" temporada="2015/2016" recaudacion="593839725" el15="81495577" el14="5897038" el13="90524" el12="5711" el11="754" el10="208" apuesta="7500">
+<partit num="1" equipo1="EIBAR" equipo2="RAYO" pt1="47" ptX="29" pt2="24" sig="1"/>
+<partit num="2" equipo1="GETAFE" equipo2="BARCELONA" pt1="10" ptX="17" pt2="73" sig="2"/>
+<partit num="3" equipo1="VILLARREAL" equipo2="SEVILLA" pt1="43" ptX="30" pt2="27" sig="1"/>
+<partit num="4" equipo1="R.SOCIEDAD" equipo2="CELTA" pt1="28" ptX="37" pt2="35" sig="2"/>
+<partit num="5" equipo1="VALENCIA" equipo2="LEVANTE" pt1="68" ptX="20" pt2="12" sig="1"/>
+<partit num="6" equipo1="SPORTING" equipo2="MÁLAGA" pt1="41" ptX="30" pt2="29" sig="1"/>
+<partit num="7" equipo1="BETIS" equipo2="ATH.CLUB" pt1="34" ptX="37" pt2="29" sig="2"/>
+<partit num="8" equipo1="ESPANYOL" equipo2="GRANADA" pt1="60" ptX="25" pt2="15" sig="X"/>
+<partit num="9" equipo1="LUGO" equipo2="TENERIFE" pt1="45" ptX="30" pt2="25" sig="1"/>
+<partit num="10" equipo1="OSASUNA" equipo2="GIRONA" pt1="51" ptX="28" pt2="21" sig="2"/>
+<partit num="11" equipo1="ZARAGOZA" equipo2="ELCHE" pt1="49" ptX="29" pt2="22" sig="1"/>
+<partit num="12" equipo1="LEGANÉS" equipo2="MALLORCA" pt1="48" ptX="29" pt2="23" sig="X"/>
+<partit num="13" equipo1="ALMERÍA" equipo2="VALLADOLID" pt1="36" ptX="35" pt2="29" sig="X"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="GIMNÁSTIC" pt1="55" ptX="28" pt2="17" sig="1"/>
+<partit num="15" equipo1="R.MADRID" equipo2="LAS PALMAS" pt1="0" ptX="0" pt2="0" sig="M1"/>
+</quiniela>
+<quiniela jornada="19" temporada="2015/2016" recaudacion="172967175" el15="434371" el14="83863" el13="1979" el12="512" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="BENFICA" equipo2="GALATASARAY" pt1="61" ptX="24" pt2="15" sig="1"/>
+<partit num="2" equipo1="BORUSSIA M." equipo2="JUVENTUS" pt1="28" ptX="37" pt2="35" sig="X"/>
+<partit num="3" equipo1="SEVILLA" equipo2="MAN.CITY" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="4" equipo1="SHAKHTAR" equipo2="MALMO" pt1="68" ptX="20" pt2="12" sig="1"/>
+<partit num="5" equipo1="MAN.UNITED" equipo2="CSKA M." pt1="64" ptX="21" pt2="15" sig="1"/>
+<partit num="6" equipo1="PSV" equipo2="WOLFSBURG" pt1="29" ptX="36" pt2="35" sig="1"/>
+<partit num="7" equipo1="BARCELONA" equipo2="BATE BORISOV" pt1="81" ptX="16" pt2="3" sig="1"/>
+<partit num="8" equipo1="ROMA" equipo2="B.LEVERKUSEN" pt1="45" ptX="30" pt2="25" sig="1"/>
+<partit num="9" equipo1="B.MUNICH" equipo2="ARSENAL" pt1="71" ptX="18" pt2="11" sig="1"/>
+<partit num="10" equipo1="OLYMPIAKOS" equipo2="DÍNAMO Z" pt1="65" ptX="22" pt2="13" sig="1"/>
+<partit num="11" equipo1="MACCABI TEL-AVIV" equipo2="PORTO" pt1="12" ptX="22" pt2="66" sig="2"/>
+<partit num="12" equipo1="CHELSEA" equipo2="DYNAMO K" pt1="58" ptX="25" pt2="17" sig="1"/>
+<partit num="13" equipo1="OL. LYON" equipo2="ZENIT SP" pt1="37" ptX="38" pt2="25" sig="2"/>
+<partit num="14" equipo1="GENT" equipo2="VALENCIA" pt1="25" ptX="30" pt2="45" sig="1"/>
+<partit num="15" equipo1="R.MADRID" equipo2="PSG" pt1="0" ptX="0" pt2="0" sig="10"/>
+</quiniela>
+<quiniela jornada="20" temporada="2015/2016" recaudacion="605784675" el15="0" el14="19435110" el13="309622" el12="25269" el11="2849" el10="603" apuesta="7500">
+<partit num="1" equipo1="EIBAR" equipo2="GETAFE" pt1="47" ptX="30" pt2="23" sig="1"/>
+<partit num="2" equipo1="SEVILLA" equipo2="R.MADRID" pt1="24" ptX="27" pt2="49" sig="1"/>
+<partit num="3" equipo1="CELTA" equipo2="VALENCIA" pt1="49" ptX="27" pt2="24" sig="2"/>
+<partit num="4" equipo1="LEVANTE" equipo2="DEPORTIVO" pt1="28" ptX="37" pt2="35" sig="X"/>
+<partit num="5" equipo1="AT.MADRID" equipo2="SPORTING" pt1="76" ptX="17" pt2="7" sig="1"/>
+<partit num="6" equipo1="MÁLAGA" equipo2="BETIS" pt1="48" ptX="28" pt2="24" sig="2"/>
+<partit num="7" equipo1="ATH.CLUB" equipo2="ESPANYOL" pt1="66" ptX="21" pt2="13" sig="1"/>
+<partit num="8" equipo1="RAYO" equipo2="GRANADA" pt1="50" ptX="27" pt2="23" sig="1"/>
+<partit num="9" equipo1="ALBACETE" equipo2="CÓRDOBA" pt1="25" ptX="35" pt2="40" sig="1"/>
+<partit num="10" equipo1="TENERIFE" equipo2="ALAVÉS" pt1="29" ptX="38" pt2="33" sig="1"/>
+<partit num="11" equipo1="MALLORCA" equipo2="ZARAGOZA" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="12" equipo1="ALCORCÓN" equipo2="ALMERÍA" pt1="53" ptX="28" pt2="19" sig="X"/>
+<partit num="13" equipo1="NUMANCIA" equipo2="OVIEDO" pt1="42" ptX="30" pt2="28" sig="1"/>
+<partit num="14" equipo1="GIMNÁSTIC" equipo2="HUESCA" pt1="45" ptX="30" pt2="25" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="VILLARREAL" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="21" temporada="2015/2016" recaudacion="266321775" el15="0" el14="17094594" el13="292110" el12="22243" el11="2749" el10="591" apuesta="7500">
+<partit num="1" equipo1="ALBACETE" equipo2="TENERIFE" pt1="48" ptX="28" pt2="24" sig="2"/>
+<partit num="2" equipo1="ALAVÉS" equipo2="GIRONA" pt1="52" ptX="26" pt2="22" sig="1"/>
+<partit num="3" equipo1="LUGO" equipo2="ELCHE" pt1="46" ptX="30" pt2="24" sig="X"/>
+<partit num="4" equipo1="OSASUNA" equipo2="MALLORCA" pt1="64" ptX="27" pt2="9" sig="1"/>
+<partit num="5" equipo1="ZARAGOZA" equipo2="VALLADOLID" pt1="56" ptX="26" pt2="18" sig="2"/>
+<partit num="6" equipo1="LEGANÉS" equipo2="ALCORCÓN" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="7" equipo1="ALMERÍA" equipo2="PONFERRADINA" pt1="27" ptX="34" pt2="39" sig="X"/>
+<partit num="8" equipo1="MIRANDÉS" equipo2="BILBAO ATH." pt1="71" ptX="21" pt2="8" sig="1"/>
+<partit num="9" equipo1="LLAGOSTERA" equipo2="NUMANCIA" pt1="25" ptX="35" pt2="40" sig="1"/>
+<partit num="10" equipo1="OVIEDO" equipo2="GIMNÁSTIC" pt1="36" ptX="39" pt2="25" sig="1"/>
+<partit num="11" equipo1="CACEREÑO" equipo2="CORUXO" pt1="33" ptX="38" pt2="29" sig="1"/>
+<partit num="12" equipo1="GUADALAJARA" equipo2="R.MADRID CST" pt1="29" ptX="37" pt2="34" sig="2"/>
+<partit num="13" equipo1="REUS DEP." equipo2="SABADELL" pt1="78" ptX="16" pt2="6" sig="1"/>
+<partit num="14" equipo1="ALGECIRAS" equipo2="CARTAGENA" pt1="37" ptX="38" pt2="25" sig="X"/>
+<partit num="15" equipo1="CÓRDOBA" equipo2="HUESCA" pt1="0" ptX="0" pt2="0" sig="11"/>
+</quiniela>
+<quiniela jornada="22" temporada="2015/2016" recaudacion="632210025" el15="0" el14="80972883" el13="7636520" el12="394842" el11="48138" el10="9089" apuesta="7500">
+<partit num="1" equipo1="VILLARREAL" equipo2="EIBAR" pt1="66" ptX="23" pt2="11" sig="X"/>
+<partit num="2" equipo1="R.SOCIEDAD" equipo2="SEVILLA" pt1="28" ptX="37" pt2="35" sig="1"/>
+<partit num="3" equipo1="VALENCIA" equipo2="LAS PALMAS" pt1="63" ptX="22" pt2="15" sig="X"/>
+<partit num="4" equipo1="DEPORTIVO" equipo2="CELTA" pt1="27" ptX="37" pt2="36" sig="1"/>
+<partit num="5" equipo1="SPORTING" equipo2="LEVANTE" pt1="52" ptX="28" pt2="20" sig="2"/>
+<partit num="6" equipo1="BETIS" equipo2="AT.MADRID" pt1="16" ptX="26" pt2="58" sig="2"/>
+<partit num="7" equipo1="ESPANYOL" equipo2="MÁLAGA" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="8" equipo1="GRANADA" equipo2="ATH.CLUB" pt1="22" ptX="33" pt2="45" sig="1"/>
+<partit num="9" equipo1="TENERIFE" equipo2="CÓRDOBA" pt1="24" ptX="33" pt2="43" sig="X"/>
+<partit num="10" equipo1="ELCHE" equipo2="ALAVÉS" pt1="42" ptX="30" pt2="28" sig="2"/>
+<partit num="11" equipo1="VALLADOLID" equipo2="OSASUNA" pt1="25" ptX="35" pt2="40" sig="2"/>
+<partit num="12" equipo1="ALCORCÓN" equipo2="ZARAGOZA" pt1="29" ptX="36" pt2="35" sig="1"/>
+<partit num="13" equipo1="NUMANCIA" equipo2="MIRANDÉS" pt1="45" ptX="30" pt2="25" sig="X"/>
+<partit num="14" equipo1="HUESCA" equipo2="OVIEDO" pt1="36" ptX="37" pt2="27" sig="2"/>
+<partit num="15" equipo1="R.MADRID" equipo2="BARCELONA" pt1="0" ptX="0" pt2="0" sig="0M"/>
+</quiniela>
+<quiniela jornada="23" temporada="2015/2016" recaudacion="135981225" el15="2089718" el14="2225700" el13="46569" el12="3658" el11="518" el10="137" apuesta="7500">
+<partit num="1" equipo1="ZENIT SP" equipo2="VALENCIA" pt1="49" ptX="30" pt2="21" sig="1"/>
+<partit num="2" equipo1="OL. LYON" equipo2="GENT" pt1="55" ptX="27" pt2="18" sig="2"/>
+<partit num="3" equipo1="ARSENAL" equipo2="DÍNAMO Z" pt1="77" ptX="16" pt2="7" sig="1"/>
+<partit num="4" equipo1="B.MUNICH" equipo2="OLYMPIAKOS" pt1="79" ptX="16" pt2="5" sig="1"/>
+<partit num="5" equipo1="PORTO" equipo2="DYNAMO K" pt1="59" ptX="25" pt2="16" sig="2"/>
+<partit num="6" equipo1="MACCABI TEL-AVIV" equipo2="CHELSEA" pt1="11" ptX="21" pt2="68" sig="2"/>
+<partit num="7" equipo1="ASTANA" equipo2="BENFICA" pt1="17" ptX="26" pt2="57" sig="X"/>
+<partit num="8" equipo1="CSKA M." equipo2="WOLFSBURG" pt1="45" ptX="30" pt2="25" sig="2"/>
+<partit num="9" equipo1="MAN.UNITED" equipo2="PSV" pt1="67" ptX="21" pt2="12" sig="X"/>
+<partit num="10" equipo1="AT.MADRID" equipo2="GALATASARAY" pt1="73" ptX="19" pt2="8" sig="1"/>
+<partit num="11" equipo1="MALMO" equipo2="PSG" pt1="9" ptX="17" pt2="74" sig="2"/>
+<partit num="12" equipo1="SHAKHTAR" equipo2="R.MADRID" pt1="21" ptX="25" pt2="54" sig="2"/>
+<partit num="13" equipo1="JUVENTUS" equipo2="MAN.CITY" pt1="43" ptX="30" pt2="27" sig="1"/>
+<partit num="14" equipo1="BORUSSIA M." equipo2="SEVILLA" pt1="35" ptX="38" pt2="27" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="ROMA" pt1="0" ptX="0" pt2="0" sig="M1"/>
+</quiniela>
+<quiniela jornada="24" temporada="2015/2016" recaudacion="607659075" el15="1668605" el14="468174" el13="13077" el12="1425" el11="278" el10="106" apuesta="7500">
+<partit num="1" equipo1="GETAFE" equipo2="VILLARREAL" pt1="25" ptX="35" pt2="40" sig="1"/>
+<partit num="2" equipo1="EIBAR" equipo2="R.MADRID" pt1="13" ptX="19" pt2="68" sig="2"/>
+<partit num="3" equipo1="SEVILLA" equipo2="VALENCIA" pt1="53" ptX="25" pt2="22" sig="1"/>
+<partit num="4" equipo1="LAS PALMAS" equipo2="DEPORTIVO" pt1="35" ptX="36" pt2="29" sig="2"/>
+<partit num="5" equipo1="CELTA" equipo2="SPORTING" pt1="68" ptX="20" pt2="12" sig="1"/>
+<partit num="6" equipo1="AT.MADRID" equipo2="ESPANYOL" pt1="76" ptX="17" pt2="7" sig="1"/>
+<partit num="7" equipo1="MÁLAGA" equipo2="GRANADA" pt1="55" ptX="27" pt2="18" sig="X"/>
+<partit num="8" equipo1="RAYO" equipo2="ATH.CLUB" pt1="28" ptX="37" pt2="35" sig="2"/>
+<partit num="9" equipo1="TENERIFE" equipo2="GIRONA" pt1="34" ptX="37" pt2="29" sig="X"/>
+<partit num="10" equipo1="ALBACETE" equipo2="ELCHE" pt1="36" ptX="37" pt2="27" sig="1"/>
+<partit num="11" equipo1="ALAVÉS" equipo2="MALLORCA" pt1="52" ptX="28" pt2="20" sig="1"/>
+<partit num="12" equipo1="ZARAGOZA" equipo2="PONFERRADINA" pt1="50" ptX="30" pt2="20" sig="1"/>
+<partit num="13" equipo1="ALMERÍA" equipo2="NUMANCIA" pt1="29" ptX="37" pt2="34" sig="X"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="OVIEDO" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="R.SOCIEDAD" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="25" temporada="2015/2016" recaudacion="129127650" el15="480426" el14="256604" el13="4390" el12="496" el11="114" el10="0" apuesta="7500">
+<partit num="1" equipo1="BARCELONA" equipo2="VILLANOVENSE" pt1="83" ptX="16" pt2="1" sig="1"/>
+<partit num="2" equipo1="BARAKALDO" equipo2="VALENCIA" pt1="14" ptX="23" pt2="63" sig="2"/>
+<partit num="3" equipo1="REUS DEP." equipo2="AT.MADRID" pt1="7" ptX="16" pt2="77" sig="2"/>
+<partit num="4" equipo1="LOGROÑÉS" equipo2="SEVILLA" pt1="12" ptX="21" pt2="67" sig="2"/>
+<partit num="5" equipo1="LINENSE" equipo2="ATH.CLUB" pt1="15" ptX="24" pt2="61" sig="2"/>
+<partit num="6" equipo1="HUESCA" equipo2="VILLARREAL" pt1="19" ptX="26" pt2="55" sig="1"/>
+<partit num="7" equipo1="ALMERÍA" equipo2="CELTA" pt1="23" ptX="27" pt2="50" sig="2"/>
+<partit num="8" equipo1="LLAGOSTERA" equipo2="DEPORTIVO" pt1="28" ptX="37" pt2="35" sig="2"/>
+<partit num="9" equipo1="MIRANDÉS" equipo2="MÁLAGA" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="10" equipo1="PONFERRADINA" equipo2="EIBAR" pt1="36" ptX="37" pt2="27" sig="1"/>
+<partit num="11" equipo1="BETIS" equipo2="SPORTING" pt1="53" ptX="28" pt2="19" sig="1"/>
+<partit num="12" equipo1="LEVANTE" equipo2="ESPANYOL" pt1="45" ptX="30" pt2="25" sig="X"/>
+<partit num="13" equipo1="LAS PALMAS" equipo2="R.SOCIEDAD" pt1="42" ptX="30" pt2="28" sig="1"/>
+<partit num="14" equipo1="RAYO" equipo2="GETAFE" pt1="51" ptX="29" pt2="20" sig="1"/>
+<partit num="15" equipo1="CÁDIZ" equipo2="R.MADRID" pt1="0" ptX="0" pt2="0" sig="1M"/>
+</quiniela>
+<quiniela jornada="26" temporada="2015/2016" recaudacion="547754025" el15="0" el14="23420838" el13="1045917" el12="91496" el11="7931" el10="1787" apuesta="7500">
+<partit num="1" equipo1="VILLARREAL" equipo2="RAYO" pt1="62" ptX="23" pt2="15" sig="1"/>
+<partit num="2" equipo1="R.SOCIEDAD" equipo2="EIBAR" pt1="51" ptX="27" pt2="22" sig="1"/>
+<partit num="3" equipo1="VALENCIA" equipo2="BARCELONA" pt1="11" ptX="17" pt2="72" sig="X"/>
+<partit num="4" equipo1="DEPORTIVO" equipo2="SEVILLA" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="5" equipo1="SPORTING" equipo2="LAS PALMAS" pt1="42" ptX="30" pt2="28" sig="1"/>
+<partit num="6" equipo1="BETIS" equipo2="CELTA" pt1="26" ptX="30" pt2="44" sig="X"/>
+<partit num="7" equipo1="GRANADA" equipo2="AT.MADRID" pt1="15" ptX="27" pt2="58" sig="2"/>
+<partit num="8" equipo1="ATH.CLUB" equipo2="MÁLAGA" pt1="64" ptX="23" pt2="13" sig="X"/>
+<partit num="9" equipo1="GIRONA" equipo2="CÓRDOBA" pt1="45" ptX="30" pt2="25" sig="2"/>
+<partit num="10" equipo1="ELCHE" equipo2="TENERIFE" pt1="43" ptX="30" pt2="27" sig="X"/>
+<partit num="11" equipo1="VALLADOLID" equipo2="ALAVÉS" pt1="38" ptX="37" pt2="25" sig="2"/>
+<partit num="12" equipo1="ALCORCÓN" equipo2="LUGO" pt1="54" ptX="27" pt2="19" sig="X"/>
+<partit num="13" equipo1="PONFERRADINA" equipo2="OSASUNA" pt1="36" ptX="37" pt2="27" sig="1"/>
+<partit num="14" equipo1="GIMNÁSTIC" equipo2="ALMERÍA" pt1="50" ptX="28" pt2="22" sig="X"/>
+<partit num="15" equipo1="R.MADRID" equipo2="GETAFE" pt1="0" ptX="0" pt2="0" sig="M1"/>
+</quiniela>
+<quiniela jornada="27" temporada="2015/2016" recaudacion="124569600" el15="0" el14="0" el13="729470" el12="48915" el11="4587" el10="712" apuesta="7500">
+<partit num="1" equipo1="PSG" equipo2="SHAKHTAR" pt1="70" ptX="19" pt2="11" sig="1"/>
+<partit num="2" equipo1="WOLFSBURG" equipo2="MAN.UNITED" pt1="41" ptX="35" pt2="24" sig="1"/>
+<partit num="3" equipo1="PSV" equipo2="CSKA M." pt1="50" ptX="26" pt2="24" sig="1"/>
+<partit num="4" equipo1="GALATASARAY" equipo2="ASTANA" pt1="66" ptX="21" pt2="13" sig="X"/>
+<partit num="5" equipo1="BENFICA" equipo2="AT.MADRID" pt1="28" ptX="31" pt2="41" sig="2"/>
+<partit num="6" equipo1="MAN.CITY" equipo2="BORUSSIA M." pt1="63" ptX="22" pt2="15" sig="1"/>
+<partit num="7" equipo1="SEVILLA" equipo2="JUVENTUS" pt1="29" ptX="37" pt2="34" sig="1"/>
+<partit num="8" equipo1="B.LEVERKUSEN" equipo2="BARCELONA" pt1="25" ptX="30" pt2="45" sig="X"/>
+<partit num="9" equipo1="ROMA" equipo2="BATE BORISOV" pt1="76" ptX="17" pt2="7" sig="X"/>
+<partit num="10" equipo1="DÍNAMO Z" equipo2="B.MUNICH" pt1="8" ptX="16" pt2="76" sig="2"/>
+<partit num="11" equipo1="OLYMPIAKOS" equipo2="ARSENAL" pt1="26" ptX="31" pt2="43" sig="2"/>
+<partit num="12" equipo1="CHELSEA" equipo2="OPORTO" pt1="49" ptX="27" pt2="24" sig="1"/>
+<partit num="13" equipo1="VALENCIA" equipo2="OL. LYON" pt1="68" ptX="21" pt2="11" sig="2"/>
+<partit num="14" equipo1="GENT" equipo2="ZENIT SP" pt1="38" ptX="33" pt2="29" sig="1"/>
+<partit num="15" equipo1="R.MADRID" equipo2="MALMO" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="28" temporada="2015/2016" recaudacion="572393325" el15="0" el14="73316346" el13="867705" el12="44121" el11="4619" el10="920" apuesta="7500">
+<partit num="1" equipo1="VILLARREAL" equipo2="R.MADRID" pt1="22" ptX="25" pt2="53" sig="1"/>
+<partit num="2" equipo1="EIBAR" equipo2="VALENCIA" pt1="27" ptX="37" pt2="36" sig="X"/>
+<partit num="3" equipo1="SEVILLA" equipo2="SPORTING" pt1="72" ptX="19" pt2="9" sig="1"/>
+<partit num="4" equipo1="LAS PALMAS" equipo2="BETIS" pt1="29" ptX="36" pt2="35" sig="1"/>
+<partit num="5" equipo1="CELTA" equipo2="ESPANYOL" pt1="63" ptX="22" pt2="15" sig="1"/>
+<partit num="6" equipo1="LEVANTE" equipo2="GRANADA" pt1="46" ptX="30" pt2="24" sig="2"/>
+<partit num="7" equipo1="AT.MADRID" equipo2="ATH.CLUB" pt1="58" ptX="26" pt2="16" sig="1"/>
+<partit num="8" equipo1="RAYO" equipo2="MÁLAGA" pt1="43" ptX="30" pt2="27" sig="2"/>
+<partit num="9" equipo1="GIRONA" equipo2="ELCHE" pt1="55" ptX="27" pt2="18" sig="2"/>
+<partit num="10" equipo1="TENERIFE" equipo2="MALLORCA" pt1="50" ptX="30" pt2="20" sig="1"/>
+<partit num="11" equipo1="LUGO" equipo2="PONFERRADINA" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="12" equipo1="ZARAGOZA" equipo2="NUMANCIA" pt1="53" ptX="27" pt2="20" sig="X"/>
+<partit num="13" equipo1="MIRANDÉS" equipo2="OVIEDO" pt1="45" ptX="30" pt2="25" sig="2"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="LLAGOSTERA" pt1="60" ptX="26" pt2="14" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="DEPORTIVO" pt1="0" ptX="0" pt2="0" sig="22"/>
+</quiniela>
+<quiniela jornada="29" temporada="2015/2016" recaudacion="111215775" el15="3386474" el14="799243" el13="10946" el12="790" el11="117" el10="0" apuesta="7500">
+<partit num="1" equipo1="VALENCIA" equipo2="BARAKALDO" pt1="81" ptX="16" pt2="3" sig="1"/>
+<partit num="2" equipo1="AT.MADRID" equipo2="REUS DEP." pt1="82" ptX="16" pt2="2" sig="1"/>
+<partit num="3" equipo1="SEVILLA" equipo2="LOGROÑÉS" pt1="79" ptX="16" pt2="5" sig="1"/>
+<partit num="4" equipo1="ATH.CLUB" equipo2="LINENSE" pt1="80" ptX="16" pt2="4" sig="1"/>
+<partit num="5" equipo1="VILLARREAL" equipo2="HUESCA" pt1="69" ptX="19" pt2="12" sig="1"/>
+<partit num="6" equipo1="CELTA" equipo2="ALMERÍA" pt1="72" ptX="18" pt2="10" sig="1"/>
+<partit num="7" equipo1="GRANADA" equipo2="LEGANÉS" pt1="55" ptX="28" pt2="17" sig="1"/>
+<partit num="8" equipo1="DEPORTIVO" equipo2="LLAGOSTERA" pt1="73" ptX="19" pt2="8" sig="X"/>
+<partit num="9" equipo1="MÁLAGA" equipo2="MIRANDÉS" pt1="58" ptX="25" pt2="17" sig="2"/>
+<partit num="10" equipo1="EIBAR" equipo2="PONFERRADINA" pt1="60" ptX="25" pt2="15" sig="1"/>
+<partit num="11" equipo1="SPORTING" equipo2="BETIS" pt1="43" ptX="30" pt2="27" sig="X"/>
+<partit num="12" equipo1="ESPANYOL" equipo2="LEVANTE" pt1="50" ptX="28" pt2="22" sig="1"/>
+<partit num="13" equipo1="R.SOCIEDAD" equipo2="LAS PALMAS" pt1="53" ptX="26" pt2="21" sig="X"/>
+<partit num="14" equipo1="GETAFE" equipo2="RAYO" pt1="45" ptX="30" pt2="25" sig="1"/>
+<partit num="15" equipo1="JUVENTUS" equipo2="TORINO" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="30" temporada="2015/2016" recaudacion="553560075" el15="0" el14="17763922" el13="187014" el12="7992" el11="918" el10="232" apuesta="7500">
+<partit num="1" equipo1="R.SOCIEDAD" equipo2="VILLARREAL" pt1="28" ptX="37" pt2="35" sig="2"/>
+<partit num="2" equipo1="VALENCIA" equipo2="GETAFE" pt1="58" ptX="25" pt2="17" sig="X"/>
+<partit num="3" equipo1="DEPORTIVO" equipo2="EIBAR" pt1="46" ptX="30" pt2="24" sig="1"/>
+<partit num="4" equipo1="BETIS" equipo2="SEVILLA" pt1="25" ptX="30" pt2="45" sig="X"/>
+<partit num="5" equipo1="ESPANYOL" equipo2="LAS PALMAS" pt1="50" ptX="30" pt2="20" sig="1"/>
+<partit num="6" equipo1="GRANADA" equipo2="CELTA" pt1="27" ptX="30" pt2="43" sig="2"/>
+<partit num="7" equipo1="ATH.CLUB" equipo2="LEVANTE" pt1="69" ptX="21" pt2="10" sig="1"/>
+<partit num="8" equipo1="MÁLAGA" equipo2="AT.MADRID" pt1="17" ptX="28" pt2="55" sig="1"/>
+<partit num="9" equipo1="MALLORCA" equipo2="GIRONA" pt1="29" ptX="37" pt2="34" sig="X"/>
+<partit num="10" equipo1="VALLADOLID" equipo2="TENERIFE" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="11" equipo1="ALCORCÓN" equipo2="ALBACETE" pt1="55" ptX="27" pt2="18" sig="1"/>
+<partit num="12" equipo1="NUMANCIA" equipo2="OSASUNA" pt1="36" ptX="37" pt2="27" sig="2"/>
+<partit num="13" equipo1="GIMNÁSTIC" equipo2="ZARAGOZA" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="14" equipo1="OVIEDO" equipo2="ALMERÍA" pt1="54" ptX="26" pt2="20" sig="1"/>
+<partit num="15" equipo1="R.MADRID" equipo2="RAYO" pt1="0" ptX="0" pt2="0" sig="M2"/>
+</quiniela>
+<quiniela jornada="31" temporada="2015/2016" recaudacion="384127125" el15="3638305" el14="732893" el13="15481" el12="1519" el11="272" el10="0" apuesta="7500">
+<partit num="1" equipo1="R.MADRID" equipo2="R.SOCIEDAD" pt1="80" ptX="16" pt2="4" sig="1"/>
+<partit num="2" equipo1="EIBAR" equipo2="SPORTING" pt1="50" ptX="28" pt2="22" sig="1"/>
+<partit num="3" equipo1="LEVANTE" equipo2="MÁLAGA" pt1="34" ptX="37" pt2="29" sig="2"/>
+<partit num="4" equipo1="RAYO" equipo2="AT.MADRID" pt1="13" ptX="23" pt2="64" sig="2"/>
+<partit num="5" equipo1="SEVILLA" equipo2="ESPANYOL" pt1="68" ptX="20" pt2="12" sig="1"/>
+<partit num="6" equipo1="GETAFE" equipo2="DEPORTIVO" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="7" equipo1="CELTA" equipo2="ATH.CLUB" pt1="45" ptX="30" pt2="25" sig="2"/>
+<partit num="8" equipo1="LAS PALMAS" equipo2="GRANADA" pt1="47" ptX="30" pt2="23" sig="1"/>
+<partit num="9" equipo1="SUNDERLAND" equipo2="LIVERPOOL" pt1="19" ptX="26" pt2="55" sig="2"/>
+<partit num="10" equipo1="HAMILTON" equipo2="INVERNESS" pt1="42" ptX="30" pt2="28" sig="2"/>
+<partit num="11" equipo1="ABERDEEN" equipo2="PARTICK" pt1="60" ptX="25" pt2="15" sig="X"/>
+<partit num="12" equipo1="DUNDEE" equipo2="CELTIC" pt1="14" ptX="22" pt2="64" sig="2"/>
+<partit num="13" equipo1="HEART" equipo2="DUNDEE UNITED" pt1="63" ptX="22" pt2="15" sig="1"/>
+<partit num="14" equipo1="MOTHERWELL" equipo2="ST. JOHNSTONE" pt1="33" ptX="38" pt2="29" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="BETIS" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="32" temporada="2015/2016" recaudacion="409481550" el15="0" el14="0" el13="12334446" el12="1118213" el11="166908" el10="31991" apuesta="7500">
+<partit num="1" equipo1="ESPANYOL" equipo2="BARCELONA" pt1="8" ptX="16" pt2="76" sig="X"/>
+<partit num="2" equipo1="MÁLAGA" equipo2="CELTA" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="3" equipo1="RAYO" equipo2="R.SOCIEDAD" pt1="29" ptX="37" pt2="34" sig="X"/>
+<partit num="4" equipo1="SPORTING" equipo2="GETAFE" pt1="44" ptX="30" pt2="26" sig="2"/>
+<partit num="5" equipo1="GRANADA" equipo2="SEVILLA" pt1="24" ptX="29" pt2="47" sig="1"/>
+<partit num="6" equipo1="ATH.CLUB" equipo2="LAS PALMAS" pt1="66" ptX="21" pt2="13" sig="X"/>
+<partit num="7" equipo1="DEPORTIVO" equipo2="VILLARREAL" pt1="28" ptX="37" pt2="35" sig="2"/>
+<partit num="8" equipo1="VALENCIA" equipo2="R.MADRID" pt1="12" ptX="19" pt2="69" sig="X"/>
+<partit num="9" equipo1="ELCHE" equipo2="MALLORCA" pt1="50" ptX="28" pt2="22" sig="X"/>
+<partit num="10" equipo1="LUGO" equipo2="NUMANCIA" pt1="46" ptX="30" pt2="24" sig="2"/>
+<partit num="11" equipo1="OSASUNA" equipo2="GIMNÁSTIC" pt1="49" ptX="28" pt2="23" sig="X"/>
+<partit num="12" equipo1="ZARAGOZA" equipo2="HUESCA" pt1="52" ptX="26" pt2="22" sig="X"/>
+<partit num="13" equipo1="LEGANÉS" equipo2="OVIEDO" pt1="43" ptX="30" pt2="27" sig="X"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="MIRANDÉS" pt1="54" ptX="27" pt2="19" sig="2"/>
+<partit num="15" equipo1="AT.MADRID" equipo2="LEVANTE" pt1="0" ptX="0" pt2="0" sig="10"/>
+</quiniela>
+<quiniela jornada="33" temporada="2015/2016" recaudacion="609048675" el15="6442934" el14="2215506" el13="39755" el12="3106" el11="484" el10="156" apuesta="7500">
+<partit num="1" equipo1="SEVILLA" equipo2="ATH.CLUB" pt1="48" ptX="28" pt2="24" sig="1"/>
+<partit num="2" equipo1="R.MADRID" equipo2="DEPORTIVO" pt1="78" ptX="16" pt2="6" sig="1"/>
+<partit num="3" equipo1="LEVANTE" equipo2="RAYO" pt1="29" ptX="36" pt2="35" sig="1"/>
+<partit num="4" equipo1="VILLARREAL" equipo2="SPORTING" pt1="67" ptX="21" pt2="12" sig="1"/>
+<partit num="5" equipo1="R.SOCIEDAD" equipo2="VALENCIA" pt1="35" ptX="37" pt2="28" sig="1"/>
+<partit num="6" equipo1="GETAFE" equipo2="BETIS" pt1="47" ptX="29" pt2="24" sig="1"/>
+<partit num="7" equipo1="LAS PALMAS" equipo2="MÁLAGA" pt1="34" ptX="37" pt2="29" sig="X"/>
+<partit num="8" equipo1="CELTA" equipo2="AT.MADRID" pt1="22" ptX="28" pt2="50" sig="2"/>
+<partit num="9" equipo1="VALLADOLID" equipo2="ELCHE" pt1="50" ptX="30" pt2="20" sig="X"/>
+<partit num="10" equipo1="GIMNÁSTIC" equipo2="LUGO" pt1="57" ptX="29" pt2="14" sig="2"/>
+<partit num="11" equipo1="OVIEDO" equipo2="ZARAGOZA" pt1="52" ptX="28" pt2="20" sig="1"/>
+<partit num="12" equipo1="HUESCA" equipo2="OSASUNA" pt1="27" ptX="38" pt2="35" sig="2"/>
+<partit num="13" equipo1="LLAGOSTERA" equipo2="LEGANÉS" pt1="28" ptX="38" pt2="34" sig="2"/>
+<partit num="14" equipo1="CÓRDOBA" equipo2="MALLORCA" pt1="62" ptX="23" pt2="15" sig="1"/>
+<partit num="15" equipo1="BARCELONA" equipo2="GRANADA" pt1="0" ptX="0" pt2="0" sig="M0"/>
+</quiniela>
+<quiniela jornada="34" temporada="2015/2016" recaudacion="614086050" el15="4655646" el14="2431910" el13="56511" el12="3826" el11="525" el10="147" apuesta="7500">
+<partit num="1" equipo1="CELTA" equipo2="LEVANTE" pt1="63" ptX="22" pt2="15" sig="1"/>
+<partit num="2" equipo1="LAS PALMAS" equipo2="AT.MADRID" pt1="14" ptX="25" pt2="61" sig="2"/>
+<partit num="3" equipo1="SEVILLA" equipo2="MÁLAGA" pt1="60" ptX="25" pt2="15" sig="1"/>
+<partit num="4" equipo1="BARCELONA" equipo2="ATH.CLUB" pt1="78" ptX="16" pt2="6" sig="1"/>
+<partit num="5" equipo1="GETAFE" equipo2="ESPANYOL" pt1="43" ptX="30" pt2="27" sig="1"/>
+<partit num="6" equipo1="VILLARREAL" equipo2="BETIS" pt1="69" ptX="20" pt2="11" sig="X"/>
+<partit num="7" equipo1="R.SOCIEDAD" equipo2="DEPORTIVO" pt1="48" ptX="29" pt2="23" sig="X"/>
+<partit num="8" equipo1="VALENCIA" equipo2="RAYO" pt1="65" ptX="23" pt2="12" sig="X"/>
+<partit num="9" equipo1="LEGANÉS" equipo2="MIRANDÉS" pt1="35" ptX="36" pt2="29" sig="1"/>
+<partit num="10" equipo1="MALLORCA" equipo2="VALLADOLID" pt1="27" ptX="38" pt2="35" sig="2"/>
+<partit num="11" equipo1="GIRONA" equipo2="PONFERRADINA" pt1="29" ptX="37" pt2="34" sig="1"/>
+<partit num="12" equipo1="OSASUNA" equipo2="OVIEDO" pt1="37" ptX="38" pt2="25" sig="X"/>
+<partit num="13" equipo1="ZARAGOZA" equipo2="LLAGOSTERA" pt1="57" ptX="25" pt2="18" sig="1"/>
+<partit num="14" equipo1="ALMERÍA" equipo2="CÓRDOBA" pt1="24" ptX="34" pt2="42" sig="2"/>
+<partit num="15" equipo1="R.MADRID" equipo2="SPORTING" pt1="0" ptX="0" pt2="0" sig="M1"/>
+</quiniela>
+<quiniela jornada="35" temporada="2015/2016" recaudacion="576136275" el15="0" el14="73795443" el13="1242006" el12="118061" el11="11125" el10="2106" apuesta="7500">
+<partit num="1" equipo1="RAYO" equipo2="CELTA" pt1="25" ptX="34" pt2="41" sig="1"/>
+<partit num="2" equipo1="AT.MADRID" equipo2="SEVILLA" pt1="60" ptX="25" pt2="15" sig="X"/>
+<partit num="3" equipo1="ATH.CLUB" equipo2="EIBAR" pt1="63" ptX="24" pt2="13" sig="1"/>
+<partit num="4" equipo1="GRANADA" equipo2="GETAFE" pt1="37" ptX="38" pt2="25" sig="1"/>
+<partit num="5" equipo1="ESPANYOL" equipo2="VILLARREAL" pt1="22" ptX="33" pt2="45" sig="X"/>
+<partit num="6" equipo1="BETIS" equipo2="R.MADRID" pt1="9" ptX="16" pt2="75" sig="X"/>
+<partit num="7" equipo1="DEPORTIVO" equipo2="VALENCIA" pt1="45" ptX="30" pt2="25" sig="X"/>
+<partit num="8" equipo1="ZARAGOZA" equipo2="MIRANDÉS" pt1="52" ptX="26" pt2="22" sig="2"/>
+<partit num="9" equipo1="LEGANÉS" equipo2="ALMERÍA" pt1="56" ptX="27" pt2="17" sig="1"/>
+<partit num="10" equipo1="MALLORCA" equipo2="ALCORCÓN" pt1="26" ptX="34" pt2="40" sig="1"/>
+<partit num="11" equipo1="LUGO" equipo2="OVIEDO" pt1="35" ptX="36" pt2="29" sig="X"/>
+<partit num="12" equipo1="ALBACETE" equipo2="GIMNÁSTIC" pt1="29" ptX="37" pt2="34" sig="X"/>
+<partit num="13" equipo1="TENERIFE" equipo2="NUMANCIA" pt1="48" ptX="28" pt2="24" sig="X"/>
+<partit num="14" equipo1="VALLADOLID" equipo2="CÓRDOBA" pt1="28" ptX="38" pt2="34" sig="1"/>
+<partit num="15" equipo1="MÁLAGA" equipo2="BARCELONA" pt1="0" ptX="0" pt2="0" sig="12"/>
+</quiniela>
+<quiniela jornada="36" temporada="2015/2016" recaudacion="600000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="GETAFE" equipo2="ATH.CLUB" pt1="35" ptX="36" pt2="29" sig=""/>
+<partit num="2" equipo1="EIBAR" equipo2="MÁLAGA" pt1="42" ptX="31" pt2="27" sig=""/>
+<partit num="3" equipo1="LAS PALMAS" equipo2="CELTA" pt1="28" ptX="37" pt2="35" sig=""/>
+<partit num="4" equipo1="R.SOCIEDAD" equipo2="BETIS" pt1="55" ptX="27" pt2="18" sig=""/>
+<partit num="5" equipo1="SEVILLA" equipo2="LEVANTE" pt1="73" ptX="18" pt2="9" sig=""/>
+<partit num="6" equipo1="VALENCIA" equipo2="SPORTING" pt1="58" ptX="25" pt2="17" sig=""/>
+<partit num="7" equipo1="VILLARREAL" equipo2="GRANADA" pt1="65" ptX="22" pt2="13" sig=""/>
+<partit num="8" equipo1="R.MADRID" equipo2="ESPANYOL" pt1="79" ptX="16" pt2="5" sig=""/>
+<partit num="9" equipo1="LLAGOSTERA" equipo2="LUGO" pt1="29" ptX="36" pt2="35" sig=""/>
+<partit num="10" equipo1="HUESCA" equipo2="ALBACETE" pt1="34" ptX="37" pt2="29" sig=""/>
+<partit num="11" equipo1="OVIEDO" equipo2="ALAVÉS" pt1="37" ptX="38" pt2="25" sig=""/>
+<partit num="12" equipo1="ALMERÍA" equipo2="ZARAGOZA" pt1="25" ptX="33" pt2="42" sig=""/>
+<partit num="13" equipo1="PONFERRADINA" equipo2="MALLORCA" pt1="51" ptX="28" pt2="21" sig=""/>
+<partit num="14" equipo1="MIRANDÉS" equipo2="OSASUNA" pt1="27" ptX="37" pt2="36" sig=""/>
+<partit num="15" equipo1="BARCELONA" equipo2="AT.MADRID" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="37" temporada="2015/2016" recaudacion="600000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="RAYO" equipo2="LAS PALMAS" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="ATH.CLUB" equipo2="VILLARREAL" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="SPORTING" equipo2="DEPORTIVO" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="LEVANTE" equipo2="BARCELONA" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="BETIS" equipo2="VALENCIA" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="CELTA" equipo2="SEVILLA" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="GRANADA" equipo2="R.MADRID" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="ZARAGOZA" equipo2="LEGANÉS" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="TENERIFE" equipo2="HUESCA" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="VALLADOLID" equipo2="PONFERRADINA" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="ALCORCÓN" equipo2="CÓRDOBA" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="GIRONA" equipo2="GIMNÁSTIC" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="LUGO" equipo2="MIRANDÉS" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="OSASUNA" equipo2="ALMERÍA" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="AT.MADRID" equipo2="EIBAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="38" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="39" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="40" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="41" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="42" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="43" temporada="2015/2016" recaudacion="500000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="44" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="45" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="46" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="47" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="48" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="49" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="50" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="51" temporada="2015/2016" recaudacion="500000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="52" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="53" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="54" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="55" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="56" temporada="2015/2016" recaudacion="700000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="57" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="58" temporada="2015/2016" recaudacion="500000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="59" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="60" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="61" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+<quiniela jornada="62" temporada="2015/2016" recaudacion="300000000" el15="0" el14="0" el13="0" el12="0" el11="0" el10="0" apuesta="7500">
+<partit num="1" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="2" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="3" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="4" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="5" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="6" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="7" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="8" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="9" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="10" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="11" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="12" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="13" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="14" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+<partit num="15" equipo1="A DETERMINAR" equipo2="A DETERMINAR" pt1="0" ptX="0" pt2="0" sig=""/>
+</quiniela>
+</quinielista>
